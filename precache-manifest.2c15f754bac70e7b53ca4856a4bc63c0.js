@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "77b9ef48258d7c17b07338980b3c7cfc",
+    "revision": "e381917aab09bdce9f2277c14341f8a2",
     "url": "/artwebsite/index.html"
   },
   {
-    "revision": "3bc0f674e92d228caab1",
-    "url": "/artwebsite/static/css/main.2e4a388c.chunk.css"
+    "revision": "ea039a3a8853366eff77",
+    "url": "/artwebsite/static/css/main.3fff5eb6.chunk.css"
   },
   {
     "revision": "c8e6b061271f2e6c1641",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artwebsite/static/js/2.a703b9bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "3bc0f674e92d228caab1",
-    "url": "/artwebsite/static/js/main.89cf2091.chunk.js"
+    "revision": "ea039a3a8853366eff77",
+    "url": "/artwebsite/static/js/main.bb07ed8a.chunk.js"
   },
   {
     "revision": "2c3109ad3461b496a248",
