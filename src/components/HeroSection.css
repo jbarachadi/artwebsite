@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-    background: url('../billymark.png') center center/cover no-repeat;
+    background: url('public/images/billymark.jpg') center center/cover no-repeat;
     height: 91.7vh;
     width: 100%;
     display: flex;
