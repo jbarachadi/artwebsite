@@ -1,8 +1,6 @@
 import React from 'react'
 import CardItem from './CardItem'
 
-console.log(process.env.PUBLIC_URL);
-
 function Cards() {
     return (
         <div className="cards">
