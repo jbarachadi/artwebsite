@@ -23,6 +23,8 @@ function NavBar() {
 
     window.addEventListener('resize', showButton)
 
+    console.log(process.env.PUBLIC_URL)
+
     return (
         <>
         <nav className="navbar">
@@ -35,22 +37,22 @@ function NavBar() {
                 </div>
                 <ul className={click ? 'nav-menu active' : 'nav-menu'}>
                     <li className="nav-item">
-                        <Link to="/" className="nav-links" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL} className="nav-links" onClick={closeMobileMenu}>
                             Home
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to="/services" className="nav-links" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/artwebsite/services"} className="nav-links" onClick={closeMobileMenu}>
                             Services
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to="/products" className="nav-links" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/artwebsite/products"} className="nav-links" onClick={closeMobileMenu}>
                             Products
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to="/sign-up" className="nav-links-mobile" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/artwebsite/sign-up"} className="nav-links-mobile" onClick={closeMobileMenu}>
                             Sign up
                         </Link>
                     </li>
