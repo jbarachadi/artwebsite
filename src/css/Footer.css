@@ -54,9 +54,9 @@
 }
 
 .footer-links {
+    display: flex;
     width: 100%;
     max-width: 1000px;
-    display: flex;
     justify-content: center;
 }
 
@@ -130,7 +130,6 @@
 .social-logo {
     color: #fff;
     justify-self: start;
-    margin-left: 20px;
     cursor: pointer;
     text-decoration: none;
     font-size: 2rem;
@@ -161,5 +160,13 @@
 
     .social-media-wrap {
         flex-direction: column;
+    }
+
+    .social-logo {
+        margin-bottom: 20px;
+    }
+
+    .website-rights {
+        margin-bottom: 20px;
     }
 }
