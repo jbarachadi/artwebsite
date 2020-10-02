@@ -7,7 +7,7 @@ video {
 }
 
 .hero-container {
-    background: url('https://jbarachadi.github.io/artwebsite/public/images/billymark.png') center center/cover no-repeat;
+    background: url('public/images/billymark.png') center center/cover no-repeat;
     height: 91.7vh;
     width: 100%;
     display: flex;
