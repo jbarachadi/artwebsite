@@ -59,10 +59,10 @@ function Footer() {
                 <div className="social-media-wrap">
                     <div className="footer-logo">
                         <Link to="/" className="social-logo">
-                            MyReactWebsite
+                            art.
                         </Link>
                     </div>
-                    <small className="website-rights">MyReactWebsite 2020</small>
+                    <small className="website-rights">art. &copy; 2020</small>
                     <div className="social-icons">
                         <Link className="social-icon-links facebook" to="/" targets="_blank" aria-label="Facebook">
                             <i className="fab fa-facebook-f"/>

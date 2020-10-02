@@ -9,14 +9,16 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem src="images/img-9.jpg" text="Explore the hidden waterfall deep inside the Amazon Jungle" label="Adventure" path="/services"/>
-                        <CardItem src="images/img-2.jpg" text="Travel through the islands of Bali in a private cruise" label="Luxury" path="/services"/>
+                        <CardItem src="images/img_1.jpg" text="A little practice sheet" label="Mosaïque" path="/services"/>
+                        <CardItem src="images/img_2.jpg" text="A day at the met" label="Abstract" path="/services"/>
                     </ul>
                     <ul className="cards__items">
-                        <CardItem src="images/img-9.jpg" text="Explore the hidden waterfall deep inside the Amazon Jungle" label="Adventure" path="/services"/>
-                        <CardItem src="images/img-2.jpg" text="Travel through the islands of Bali in a private cruise" label="Luxury" path="/services"/>
-                        <CardItem src="images/img-9.jpg" text="Explore the hidden waterfall deep inside the Amazon Jungle" label="Adventure" path="/services"/>
-                        <CardItem src="images/img-2.jpg" text="Travel through the islands of Bali in a private cruise" label="Luxury" path="/services"/>
+                        <CardItem src="images/img_3.jpg" text="Hallowed hollowed hall" label="Architecture" path="/services"/>
+                        <CardItem src="images/img_4.jpg" text="Vintage patriotism" label="Mosaïque" path="/services"/>
+                    </ul>
+                    <ul className="cards__items">
+                        <CardItem src="images/img_5.jpg" text="Portrait by quilting" label="Modern" path="/services"/>
+                        <CardItem src="images/img_6.jpg" text="The wall sees you.." label="Graffiti" path="/services"/>
                     </ul>
                 </div>
             </div>
