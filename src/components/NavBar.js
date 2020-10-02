@@ -42,17 +42,17 @@ function NavBar() {
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to={process.env.PUBLIC_URL + "/artwebsite/services"} className="nav-links" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/services"} className="nav-links" onClick={closeMobileMenu}>
                             Services
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to={process.env.PUBLIC_URL + "/artwebsite/products"} className="nav-links" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/products"} className="nav-links" onClick={closeMobileMenu}>
                             Products
                         </Link>
                     </li>
                     <li className="nav-item">
-                        <Link to={process.env.PUBLIC_URL + "/artwebsite/sign-up"} className="nav-links-mobile" onClick={closeMobileMenu}>
+                        <Link to={process.env.PUBLIC_URL + "/sign-up"} className="nav-links-mobile" onClick={closeMobileMenu}>
                             Sign up
                         </Link>
                     </li>
