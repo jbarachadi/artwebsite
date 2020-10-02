@@ -23,8 +23,6 @@ function NavBar() {
 
     window.addEventListener('resize', showButton)
 
-    console.log(process.env.PUBLIC_URL)
-
     return (
         <>
         <nav className="navbar">
