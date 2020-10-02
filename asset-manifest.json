@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/artwebsite/static/css/main.08cac1f1.chunk.css",
-    "main.js": "/artwebsite/static/js/main.a03acd8d.chunk.js",
-    "main.js.map": "/artwebsite/static/js/main.a03acd8d.chunk.js.map",
+    "main.js": "/artwebsite/static/js/main.975615cc.chunk.js",
+    "main.js.map": "/artwebsite/static/js/main.975615cc.chunk.js.map",
     "runtime-main.js": "/artwebsite/static/js/runtime-main.193478aa.js",
     "runtime-main.js.map": "/artwebsite/static/js/runtime-main.193478aa.js.map",
     "static/js/2.a703b9bb.chunk.js": "/artwebsite/static/js/2.a703b9bb.chunk.js",
     "static/js/2.a703b9bb.chunk.js.map": "/artwebsite/static/js/2.a703b9bb.chunk.js.map",
     "index.html": "/artwebsite/index.html",
-    "precache-manifest.136c91b72c3fa396be18ea900e078b61.js": "/artwebsite/precache-manifest.136c91b72c3fa396be18ea900e078b61.js",
+    "precache-manifest.db123b7e598791a3915924f5088eea5a.js": "/artwebsite/precache-manifest.db123b7e598791a3915924f5088eea5a.js",
     "service-worker.js": "/artwebsite/service-worker.js",
     "static/css/main.08cac1f1.chunk.css.map": "/artwebsite/static/css/main.08cac1f1.chunk.css.map",
     "static/js/2.a703b9bb.chunk.js.LICENSE.txt": "/artwebsite/static/js/2.a703b9bb.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.193478aa.js",
     "static/js/2.a703b9bb.chunk.js",
     "static/css/main.08cac1f1.chunk.css",
-    "static/js/main.a03acd8d.chunk.js"
+    "static/js/main.975615cc.chunk.js"
   ]
 }
