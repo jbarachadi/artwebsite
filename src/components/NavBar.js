@@ -1,7 +1,7 @@
 import React, {useState, useEffect} from 'react'
 import {Link} from 'react-router-dom'
 import {Button} from './Button'
-import './NavBar.css'
+import '../css/NavBar.css'
 
 function NavBar() {
     const [click, setClick] = useState(false);
@@ -22,8 +22,6 @@ function NavBar() {
     }, )
 
     window.addEventListener('resize', showButton)
-    
-    console.log(process.env.PUBLIC_URL);
 
     return (
         <>
