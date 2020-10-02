@@ -13,10 +13,10 @@ function App() {
       <Router>
         <NavBar/>
         <Switch>
-          <Route path={process.env.PUBLIC_URL + '/'} exact component={Home}/>
-          <Route path={process.env.PUBLIC_URL + '/products'} exact component={Products}/>
-          <Route path={process.env.PUBLIC_URL + '/services'} exact component={Services}/>
-          <Route path={process.env.PUBLIC_URL + '/sign-up'} exact component={SignUp}/>
+          <Route path={process.env.PUBLIC_URL + '/artwebsite'} exact component={Home}/>
+          <Route path={process.env.PUBLIC_URL + '/artwebsite/products'} exact component={Products}/>
+          <Route path={process.env.PUBLIC_URL + '/artwebsite/services'} exact component={Services}/>
+          <Route path={process.env.PUBLIC_URL + '/artwebsite/sign-up'} exact component={SignUp}/>
         </Switch>
       </Router>
     </>
