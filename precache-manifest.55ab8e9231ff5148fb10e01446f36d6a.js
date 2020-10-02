@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "115d6a58fc433a1314dcc3c097a2ff98",
+    "revision": "4f9f16ebfbda4b81488218769cba5499",
     "url": "/artwebsite/index.html"
   },
   {
-    "revision": "5432745b92a66a2bd131",
-    "url": "/artwebsite/static/css/main.6dfe6b3e.chunk.css"
+    "revision": "68a2387c2886dbbd4dc6",
+    "url": "/artwebsite/static/css/main.b830ecf5.chunk.css"
   },
   {
     "revision": "c8e6b061271f2e6c1641",
@@ -16,16 +16,12 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/artwebsite/static/js/2.a703b9bb.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5432745b92a66a2bd131",
-    "url": "/artwebsite/static/js/main.db2eee5a.chunk.js"
+    "revision": "68a2387c2886dbbd4dc6",
+    "url": "/artwebsite/static/js/main.f7353345.chunk.js"
   },
   {
     "revision": "2c3109ad3461b496a248",
     "url": "/artwebsite/static/js/runtime-main.193478aa.js"
-  },
-  {
-    "revision": "24a76bdf5a5dd75cf926d2d0d80c7cd1",
-    "url": "/artwebsite/static/media/billymark.24a76bdf.png"
   },
   {
     "revision": "90f064138ab108c25e568e40f0940e8a",
