@@ -9,16 +9,16 @@ function Cards() {
             <div className="cards__container">
                 <div className="cards__wrapper">
                     <ul className="cards__items">
-                        <CardItem src="images/img_1.jpg" text="A little practice sheet" label="Mosaïque" path="#"/>
-                        <CardItem src="images/img_2.jpg" text="A day at the met" label="Abstract" path="#"/>
+                        <CardItem src="artwebsite/images/img_1.jpg" text="A little practice sheet" label="Mosaïque" path="#"/>
+                        <CardItem src="artwebsite/images/img_2.jpg" text="A day at the met" label="Abstract" path="#"/>
                     </ul>
                     <ul className="cards__items">
-                        <CardItem src="images/img_3.jpg" text="Hallowed hollowed hall" label="Architecture" path="#"/>
-                        <CardItem src="images/img_4.jpg" text="Vintage patriotism" label="Mosaïque" path="#"/>
+                        <CardItem src="artwebsite/images/img_3.jpg" text="Hallowed hollowed hall" label="Architecture" path="#"/>
+                        <CardItem src="artwebsite/images/img_4.jpg" text="Vintage patriotism" label="Mosaïque" path="#"/>
                     </ul>
                     <ul className="cards__items">
-                        <CardItem src="images/img_5.jpg" text="Portrait by quilting" label="Modern" path="#"/>
-                        <CardItem src="images/img_6.jpg" text="The wall sees you.." label="Graffiti" path="#"/>
+                        <CardItem src="artwebsite/images/img_5.jpg" text="Portrait by quilting" label="Modern" path="#"/>
+                        <CardItem src="artwebsite/images/img_6.jpg" text="The wall sees you.." label="Graffiti" path="#"/>
                     </ul>
                 </div>
             </div>
